@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dGarhrWcEkc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student\\source\\repos\\Form1\\Form1\\Form1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\system.windows.extensions\\10.0.8\\system.windows.extensions.10.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
