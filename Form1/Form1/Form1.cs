@@ -65,7 +65,7 @@ namespace CybersecurityChatbot
             // Form
             this.Text = "Cybersecurity Awareness Bot";
             this.BackColor = Color.DimGray;
-            this.ClientSize = new Size(584, 450);
+            this.ClientSize = new Size(589, 450);
             this.Controls.Add(this.chatLog);
             this.Controls.Add(this.inputBox);
             this.Controls.Add(this.sendButton);
