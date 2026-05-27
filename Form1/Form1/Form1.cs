@@ -49,7 +49,7 @@ namespace CybersecurityChatbot
 
             // sendButton
             this.sendButton.Location = new Point(480, 408);
-            this.sendButton.Size = new Size(92, 25);
+            this.sendButton.Size = new Size(96, 25);
             this.sendButton.Text = "Send";
             this.sendButton.BackColor = Color.DarkCyan;
             this.sendButton.ForeColor = Color.Black;
