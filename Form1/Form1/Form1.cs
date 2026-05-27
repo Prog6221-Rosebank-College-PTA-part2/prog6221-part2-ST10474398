@@ -36,7 +36,7 @@ namespace CybersecurityChatbot
             this.chatLog.Location = new Point(12, 100);
             this.chatLog.Size = new Size(560, 300);
             this.chatLog.ReadOnly = true;
-            this.chatLog.BackColor = Color.LightGray;
+            this.chatLog.BackColor = Color.LightbBlack;
             this.chatLog.ForeColor = Color.LightBlue;
             this.chatLog.Font = new Font("Consolas", 10);
 
