@@ -1,0 +1,8 @@
+﻿Build started at 3:57 PM...
+1>------ Build started: Project: Form1, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>C:\Users\Student\source\repos\Form1\Form1\CybersecurityBot.cs(11,37,11,53): warning CS0067: The event 'CybersecurityBot.RequestUserInput' is never used
+1>Form1 -> C:\Users\Student\source\repos\Form1\Form1\bin\Debug\net8.0-windows\Form1.dll
+1>Done building project "Form1.csproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 3:57 PM and took 11.210 seconds ==========
