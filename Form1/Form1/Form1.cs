@@ -42,7 +42,7 @@ namespace CybersecurityChatbot
 
             // inputBox
             this.inputBox.Location = new Point(12, 410);
-            this.inputBox.Size = new Size(460, 20);
+            this.inputBox.Size = new Size(470, 20);
             this.inputBox.BackColor = Color.Black;
             this.inputBox.ForeColor = Color.White;
             this.inputBox.KeyDown += InputBox_KeyDown;
