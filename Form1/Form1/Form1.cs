@@ -52,7 +52,7 @@ namespace CybersecurityChatbot
             this.sendButton.Size = new Size(92, 25);
             this.sendButton.Text = "Send";
             this.sendButton.BackColor = Color.DarkCyan;
-            this.sendButton.ForeColor = Color.White;
+            this.sendButton.ForeColor = Color.Black;
             this.sendButton.Click += SendButton_Click;
 
             // asciiArtLabel
